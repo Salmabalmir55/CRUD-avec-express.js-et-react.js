@@ -1,0 +1,35 @@
+:root {
+  --bg:        #f5f2ee;
+  --surface:   #ffffff;
+  --surface2:  #f0ede8;
+  --border:    #e2ddd6;
+  --ink:       #1a1714;
+  --ink-muted: #8a8278;
+  --teal:      #0d7377;
+  --teal-lt:   #14a8ad;
+  --teal-dim:  rgba(13,115,119,.1);
+  --coral:     #e05c45;
+  --coral-dim: rgba(224,92,69,.1);
+  --amber:     #d4860a;
+  --amber-dim: rgba(212,134,10,.1);
+  --green:     #2d8a5e;
+  --green-dim: rgba(45,138,94,.1);
+  --shadow-sm: 0 1px 3px rgba(26,23,20,.08);
+  --shadow:    0 4px 20px rgba(26,23,20,.1);
+  --shadow-lg: 0 12px 40px rgba(26,23,20,.14);
+  --radius:    14px;
+  --radius-sm: 8px;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+button, input, select { font-family: inherit; }
+button { cursor: pointer; }
