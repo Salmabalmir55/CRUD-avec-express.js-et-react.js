@@ -14,7 +14,7 @@ Back-end REST en **Express.js** · Front-end en **React.js** (hooks `useState` /
 
 ### Vue principale — liste des utilisateurs
 ```
-![Dashboard](image1.png)
+<img width="1882" height="882" alt="image" src="image1" />
 
 ```
 
