@@ -13,21 +13,18 @@ Back-end REST en **Express.js** · Front-end en **React.js** (hooks `useState` /
 ## 📸 Aperçu
 
 ### Vue principale — liste des utilisateurs
-```
-<img width="1882" height="882" alt="image" src="image1" />
 
-```
+
+<img width="1910" height="899" alt="Vue principale" src="https://github.com/user-attachments/assets/539a9500-1d51-4438-afbc-446a02c0ba41" />
 
 ### Modal — Ajout / Modification d'un utilisateur
-```
 
-<img width="1882" height="882" alt="image" src="https://github.com/user-attachments/assets/1fce55c5-6a82-4c49-af20-11c6f067c1c0" />
+
+<img width="1910" height="899" alt="Capture d&#39;écran 2026-05-30 132247" src="https://github.com/user-attachments/assets/539a9500-1d51-4438-afbc-446a02c0ba41" />
 
 <img width="1747" height="845" alt="image" src="https://github.com/user-attachments/assets/71cae9f6-23a4-4764-92f4-d8004b81933a" />
 
 
-
-```
 
 ---
 
