@@ -20,8 +20,8 @@ Back-end REST en **Express.js** · Front-end en **React.js** (hooks `useState` /
 ### Modal — Ajout / Modification d'un utilisateur
 
 
-[<img width="1910" height="899" alt="Capture d&#39;écran 2026-05-30 132247" src="https://github.com/user-attachments/assets/539a9500-1d51-4438-afbc-446a02c0ba41" />
-](https://github.com/Salmabalmir55/CRUD-avec-express.js-et-react.js/blob/b1bc0cf09762ea5122e80db28c0c0ed4e61f72b4/image2.png)
+<img width="1882" height="882" alt="Capture d&#39;écran 2026-05-30 132332" src="https://github.com/user-attachments/assets/2d6e618d-aaf3-4325-bd54-8ad7276225aa" />
+
 
 <img width="1747" height="845" alt="image" src="https://github.com/user-attachments/assets/71cae9f6-23a4-4764-92f4-d8004b81933a" />
 
